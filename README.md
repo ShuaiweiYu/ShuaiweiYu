@@ -1,42 +1,21 @@
+# shuaiwei(1) -- Shuaiwei Yu
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+## SYNOPSIS
 
-<p align="center">My name is Shuaiwei Yu studying Information Systems at the Technical University of Munich. Nice to meet you!</p>
+`shuaiwei` `--software-developer`<br>
+`shuaiwei` `--full-stack` {java|javascript|python|c#|swift|...}<br>
+`shuaiwei` `--working-student` software_engineering<br>
+`shuaiwei` `--tutor` programming_tutor<br>
 
-###
+## DESCRIPTION
 
-<h2 align="left">About me</h2>
+**Shuaiwei Yu** is a software developer with experience in backend and frontend development. Currently pursuing a Master's degree in Information Systems at the [Technical University of Munich (TUM)][tum], he specializes in designing and implementing software systems, including cloud-based applications, automated workflows, and scalable microservices.
 
-###
+His professional journey includes work in **software engineering**, **AI-driven applications**, and **full-stack development** across different companies such as Siemens, LEGO, BMW, and LexCom Informationssysteme.
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Information Systems focusing on software development and machine learning</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+[tum]: https://www.tum.de/
 
 ###
 
@@ -47,10 +26,69 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shuaiwei-yu-ba2148156/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+## OPTIONS
 
-###
+`--software-developer`  
+Proficient in various programming languages including Java, JavaScript, Python, C#, SQL, and Swift.
+
+`--full-stack`  
+Extensive experience in backend (SpringBoot, .NET, Node.js) and frontend (React.js, Vue.js) development.
+
+`--working-student`  
+Gained hands-on experience as a software developer working student in multiple industries, contributing to large-scale projects and cloud-based solutions.
+
+`--tutor`  
+Taught programming and computer networking as a tutor at TUM, assisting students in Java, object-oriented programming, and network fundamentals.
+
+## HISTORY
+
+### WORK EXPERIENCE
+
+- **Siemens AG** _Jan 2025 - Present_  
+  Software Developer (Working Student)  
+  - Developed a Collaboration Module for managing AGV fleets using Coaty Protocol (Node.js, Docker)
+
+- **LEGO Group** _Apr 2024 - Sep 2024_  
+  Full-Stack Developer Intern  
+  - Built a drag-and-drop interface for toy packaging design
+  - Developed a RESTful API system to control robotic arms in production lines
+  
+- **LexCom Informationssysteme GmbH** _Oct 2023 - Dec 2024_  
+  Full-Stack Developer (Working Student)  
+  - Created an OCR-powered order document parsing system (React, SpringBoot, MongoDB, Oracle Cloud)
+  - Developed backend microservices for order tracking using Kafka
+
+- **BMW (Bayerische Motoren Werke AG)** _Sep 2022 - Dec 2022_  
+  3rd-Party App Store Project Management (Working Student)  
+  - Built utility apps for Android and a news aggregator application
+  
+- **Technical University of Munich** _2021 - 2023_  
+  - Tutor for IT and Society, Programming, and Computer Networking  
+  - Maintained the CIT school website with Typo3 and created newsletters in HTML
+
+## EDUCATION
+
+- **Master of Science (M.Sc.) in Information Systems** _2023 - Present_  
+  Technical University of Munich (Expected Graduation: Oct. 2025)
+
+- **Bachelor of Science (B.Sc.) in Information Systems** _2020 - 2023_  
+  Technical University of Munich (Graduation Score: 2.2)
+
+## SKILLS & PROJECTS
+
+**Languages:** Java, JavaScript, Python, C#, SQL, Swift  
+**Frameworks & Tools:** SpringBoot, .NET, React.js, Vue.js, Node.js, Docker, Git  
+**Projects:**  
+- **VolMe volunteering platform ([volme.org][volme])**  
+  - Developed a full-stack web platform for volunteer event management
+  - Backend: Node.js, MongoDB, AWS; Frontend: React, Material UI
+
+- **Bachelor Thesis: Automatic BPMN Generation Using NLP**  
+  - Designed an AI-powered system to generate BPMN diagrams from textual descriptions
+  - Technologies: Python, NLP, spaCy
+
+- **Business Analytics & Machine Learning Project**  
+  - Built a decision tree model for predicting customer purchase decisions
+  - Technologies: Python, Scikit-learn, NumPy
+
+[volme]: http://volme.org/
