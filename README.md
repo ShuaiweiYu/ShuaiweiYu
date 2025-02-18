@@ -1,6 +1,4 @@
-# shuaiwei(1) -- Shuaiwei Yu
-
-<h1 align="left">Hey 👋 What's up?</h1>
+# Shuaiwei Yu
 
 ## SYNOPSIS
 
